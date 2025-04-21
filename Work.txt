@@ -1,0 +1,39 @@
+UCoin An Efficient Privacy Preserving Scheme for Cryptocurrencies
+
+
+User
+-----
+
+Register and Login
+View Profile
+Encrypt & Upload Datasets
+Find Cryptocurrency Transaction Type
+Find Cryptocurrency Transaction Type By Hashcode
+
+
+Server
+------
+Login
+View All Users and Authorize
+View All Datasets
+Create Blockchain and View All Datasets
+View Cryptocurrency Transaction Status Results
+View Cryptocurrency Type Transaction Results
+
+
+
+Members
+---------
+
+Tid	
+Symbol	
+Name	
+TransPrice 	
+Transdate	
+CirculatingSupply	
+Tpstatus	
+Transstatus
+TransTypeHashcode
+
+
+
