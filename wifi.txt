@@ -1,0 +1,31 @@
+TP link is good quality wifi
+Social Behavior Features.
+
+Extroversive Behavior Features.
+Extroversive behaviors, such as uploading photos and sending messages, result in visible imprints to one or more peer user.
+
+Introversive Behavior Features.
+Introversive behaviors, such as browsing other users’ profiles and searching in message inbox, however, do not produce observable effects to other users.
+
+Abstract—Account compromisation is a serious threat to users
+of Online Social Networks (OSNs). While relentless spammers
+exploit the established trust relationships between account owners
+and their friends to efficiently spread malicious spam, timely detection
+of compromised accounts are quite challenging due to the
+well established trust relationship between the service providers,
+account owners, and their friends. In this paper, we study the
+social behaviors of OSN users, i.e. their usage of OSN services,
+and the application of which in detecting compromised accounts.
+In particular, we propose a set of social behavioral features that
+can effectively characterize the user social activities on OSNs.
+We validate the efficacy of these behavioral features by collecting
+and analyzing real user clickstreams to an OSN website. Based
+on our measurement study, we devise individual user’s social
+behavioral profile by combining its respective behavioral feature
+metrics. A social behavioral profile accurately reflects a user’s
+OSN activity patterns. While an authentic owner conforms to
+its account’s social behavioral profile involuntarily, it is hard
+and costly for impostors to feign. We evaluate the capability
+of the social behavioral profiles in distinguishing different OSN
+users, and our experimental results show the social behavioral
+profiles can accurately differenti

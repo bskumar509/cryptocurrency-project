@@ -1,10 +1,13 @@
+IEEE Transactions on Dependable and Secure Computing,Volume:20,Issue:1,Issue Date: 01.Jan.-Feb.2023
+
+
 UCoin An Efficient Privacy Preserving Scheme for Cryptocurrencies
 
 
 User
 -----
 
-Register and Login
+Login
 View Profile
 Encrypt & Upload Datasets
 Find Cryptocurrency Transaction Type
@@ -13,7 +16,7 @@ Find Cryptocurrency Transaction Type By Hashcode
 
 Server
 ------
-Login
+Register and Login
 View All Users and Authorize
 View All Datasets
 Create Blockchain and View All Datasets
